@@ -1,0 +1,71 @@
+@import url('https://fonts.googleapis.com/css2?family=Open+Sans&family=Oxygen:wght@300&display=swap');
+
+*{
+    margin: 0;
+    padding: 0;
+    font-family: 'Open Sans', sans-serif;
+}
+
+.head{
+    background-color: rgb(241, 239, 239);
+    height: 90px;
+}
+
+.navbar{
+  display: flex;
+  justify-content: space-between;  
+  align-items: center;
+}
+
+.grasshopper{
+    display: flex;
+    align-items: center;
+    gap: 2rem;
+   padding: 28px 45px 28px 45px ;
+} 
+
+.grasshopper a{
+    color: grey;
+}
+
+.Sing{
+    padding-right: 40px;
+}
+
+.Sing a {
+    text-decoration: none;
+    color: grey;
+}
+
+.sec{
+    background-color: #b8e2ca;
+    height: 570px;
+}
+
+.codingAdventure{
+    display: flex;
+    justify-content: center;
+    padding-top: 30px;
+}
+
+.container1{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    gap: 2rem;
+    padding-top: 50px;
+}
+
+.container2{
+    width: 250px;
+    text-align: center;
+}
+
+.container2 img{
+    width: 200px;
+}
+
+
+.parrafo-revelde{
+    padding-top: 25px;
+}
